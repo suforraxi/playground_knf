@@ -1,0 +1,6 @@
+Hello, this is the git playground for the KNF-lab.
+Try to modify this file and add / commit / push / and finally pull-request !!
+
+Good luck (of Success) 
+
+ 

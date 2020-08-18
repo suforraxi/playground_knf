@@ -1,8 +1,10 @@
 Hello, this is the git playground for the KNF-lab.
-Try to modify this file and add / commit / push / and finally pull-request !!
-
-Good luck (of Succes) 
-
-Dorien was here! :)
-
- Sifra was here as well!
+Try to modify this file and add / commit / push / and finally pull-request !!,
+,
+Good luck (of Succes) ,
+,
+Dorien was here! :),
+,
+ Sifra was here as well!,
+,
+And Eline too!!,
